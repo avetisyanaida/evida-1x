@@ -18,8 +18,8 @@
     @include screen-max-width-567 {
       width: 140px;
     }
-    @include screen-max-width-430 {
-      width: 120px;
+    @include screen-max-width-460 {
+      display: none;
     }
   }
   .user-info {
